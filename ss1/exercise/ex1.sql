@@ -1,5 +1,5 @@
-create database class;
-use class;
+create database student_management;
+use student_management;
 create table class(
   id int, 
   `name` varchar(50)
