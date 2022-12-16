@@ -23,7 +23,7 @@ CREATE TABLE nha_cung_cap (
 CREATE TABLE don_dat_hang (
   so_don_hang INT PRIMARY KEY, 
   ngay_dat_hang DATE, 
-  ma_nha_cung_cap int, 
+  ma_nha_cung_cap INT, 
   FOREIGN KEY (ma_nha_cung_cap) REFERENCES nha_cung_cap (ma_nha_cung_cap)
 );
 
