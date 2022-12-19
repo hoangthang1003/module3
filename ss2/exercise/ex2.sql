@@ -1,5 +1,5 @@
-create database quan_ly_ban_hang2;
-use ex2_ss2;
+create database sales_manager2;
+use sales_manager2;
 
 create table customer(
   customer_id int primary key, 

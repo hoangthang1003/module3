@@ -105,7 +105,7 @@ select
   o.order_date, 
   p.product_price, 
   od.od_qty, 
-  (p.product_price * od.od_qty) as tongtien 
+  (p.product_price * od.od_qty) as sum 
 from 
   customer c 
   join `order` o on c.customer_id = o.customer_id 

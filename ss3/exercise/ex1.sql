@@ -80,7 +80,7 @@ select
 from 
   student 
 where 
-  student_name like "%h%";
+  student_name like "h%";
   
 /*
 Hiển thị các thông tin lớp học có thời gian bắt đầu vào tháng 12. */

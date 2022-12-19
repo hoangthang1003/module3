@@ -1,5 +1,5 @@
-CREATE DATABASE quan_ly_ban_hang;
-USE quan_ly_ban_hang;
+CREATE DATABASE sales_manager;
+USE sales_manager;
 
 CREATE TABLE phieu_xuat (
   so_phieu_xuat INT PRIMARY KEY, ngay_xuat DATE
