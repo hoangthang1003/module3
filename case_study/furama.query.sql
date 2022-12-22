@@ -115,6 +115,4 @@ order by ma_hop_dong;
 
 -- iển thi thông tin của tất cả nhân viên bao gồm ma_nhan_vien, ho_ten, ten_trinh_do, ten_bo_phan, 
 -- so_dien_thoai, dia_chi mới chỉ lập được tối đa 3 hợp đồng từ năm 2020 đến 2021.
-select nv.ma_nhan_vien , nv.ho_ten , td.ma_trinh_do bp.ten_bo_phan , nv.so_dien_thoai , nv.dia_chi
-from nhan_vien as nv
-join 
+select nv.ma_nhan_vien , nv.ho_ten , td.ma_trinh_do bp.ten_bo_phan , nv.so_dien_thoai , nv.dia_chi;
