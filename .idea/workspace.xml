@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44beca32-32ea-47f4-87fc-09b3497fda13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/case_study/furama.query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/furama.query.sql" afterDir="false" />
-    </list>
+    <list default="true" id="44beca32-32ea-47f4-87fc-09b3497fda13" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss6/ex1" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,10 +33,17 @@
       <option name="presentableId" value="Default" />
       <updated>1671617098731</updated>
       <workItem from="1671617099970" duration="7000" />
+      <workItem from="1671769484999" duration="88000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1671769572024">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1671769572024" />
   </component>
 </project>
