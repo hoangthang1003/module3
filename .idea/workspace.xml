@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44beca32-32ea-47f4-87fc-09b3497fda13" name="Default Changelist" comment="" />
+    <list default="true" id="44beca32-32ea-47f4-87fc-09b3497fda13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss91/src/main/java/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss91/src/main/webapp/total.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss6/ex1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +38,7 @@
       <updated>1671617098731</updated>
       <workItem from="1671617099970" duration="7000" />
       <workItem from="1671769484999" duration="88000" />
+      <workItem from="1672303668047" duration="91000" />
     </task>
     <servers />
   </component>
@@ -41,9 +46,17 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1671769572024">
+    <state x="272" y="26" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1672303705324">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1671769572024" />
+    <state x="272" y="26" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.672@0.0.1280.672" timestamp="1672303705324" />
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog" timestamp="1672303759662">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog/0.0.1280.672@0.0.1280.672" timestamp="1672303759662" />
+    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1672303719779">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1672303719779" />
   </component>
 </project>
