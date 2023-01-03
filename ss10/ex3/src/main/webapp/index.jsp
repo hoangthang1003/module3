@@ -21,10 +21,10 @@
   <br>
   <br>
   Operator : <select name="selector">
-  <option>Addition(+)</option>
-  <option>Subtraction (-)</option>
-  <option>Multiplication (x)</option>
-  <option>Division (/)</option>
+  <option value="Addition">Addition(+)</option>
+  <option value="Subtraction">Subtraction (-)</option>
+  <option value="Multiplication">Multiplication (x)</option>
+  <option value="Division">Division (/)</option>
 </select>
   <br>
   <br>

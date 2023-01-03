@@ -9,9 +9,9 @@
 
 <html>
   <head>
-    <title>$Title$</title>
+    <title>exercise2</title>
   </head>
   <body>
-  <a href="/customer">aa</a>
+  <a href="/customer">Bấm vào đây để hiển thị list khách hàng</a>
   </body>
 </html>
