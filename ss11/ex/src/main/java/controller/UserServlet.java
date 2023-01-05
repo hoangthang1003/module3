@@ -23,8 +23,7 @@ public class UserServlet extends javax.servlet.http.HttpServlet {
             case "update":
                 updateUser(request,response);
                 break;
-            case "delete":
-                deleteUser(request,response);
+
             case "search":
                 searchUser(request,response);
                 break;
@@ -84,6 +83,9 @@ public class UserServlet extends javax.servlet.http.HttpServlet {
                 break;
             case "update":
                 showUpdateForm(request,response);
+                break;
+            case "delete":
+                deleteUser(request,response);
                 break;
             default:
                 showList(request,response);

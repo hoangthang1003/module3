@@ -37,7 +37,7 @@
             <th>${user.email}</th>
             <th>${user.country}</th>
             <th><a href="/user?action=update&id=${user.id}">Edit</a></th>
-            <th><a href="/user?action=delete&id=${user.id}  ">Delete</a></th>
+            <th><a href="/user?action=delete&id=${user.id}">Delete</a></th>
         </tr>
     </c:forEach>
 </table>

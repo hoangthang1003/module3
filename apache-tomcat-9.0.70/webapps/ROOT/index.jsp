@@ -1,8 +1,9 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
-  User: USER
-  Date: 04/01/2023
-  Time: 10:54 SA
+  model.User: USER
+  Date: 05/01/2023
+  Time: 10:27 SA
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -11,6 +12,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="/user">Danh sách </a>
+  <c:redirect url="/users"></c:redirect>
   </body>
 </html>
