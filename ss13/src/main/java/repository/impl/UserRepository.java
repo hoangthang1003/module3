@@ -15,7 +15,7 @@ public class UserRepository implements IUserRepository {
     private static final String SELECT_USER_BY_ID = "select id,name,email,country from users where id =?";
     private static final String SELECT_ALL_USERS = "select * from users order by name";
     private static final String DELETE_USERS_SQL = "delete from users where id = ?;";
-    private static final String UPDATE_USERS_SQL = "update users set name = ?,email= ?, country =? where id = ?;";
+    private static final String UPDATE_USERS_SQL = "update users set name1 = ?,email1= ?, country1 =? where id1 = ?;";
     private static final String SEARCH_USERS_SQL = "select * from users where country like ?;";
     private static final String DISPLAY_LIST_SP = "call display_list();";
     private static final String EDIT_USER_SP = "call update_user(?,?,?,?);";

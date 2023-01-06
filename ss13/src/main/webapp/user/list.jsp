@@ -86,7 +86,7 @@
                 <td><c:out value="${user.name}"/></td>
                 <td><c:out value="${user.email}"/></td>
                 <td><c:out value="${user.country}"/></td>
-                <td><a href="${pageContext.request.contextPath}/users?action=edit&id=${user.getId()}">Edit</a></td>
+                <td><a href="/users?action=edit&id=${user.getId()}">Edit</a></td>
 
                 <td>
                     <button onclick="infoDelete('${user.getId()}','${user.getName()}')" type="button"
