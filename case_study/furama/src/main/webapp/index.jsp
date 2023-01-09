@@ -45,10 +45,13 @@
         <img src="https://tse2.mm.bing.net/th?id=OIP.RuPJf5uOjrbyyx1uwVI4lQHaHa&pid=Api&P=0" height="20"
              width="20"/> reservation@furamavietnam.com
     </div>
-    <div class="row n">
+    <div class="row " style="background: green;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;">
         <div class="col-2"><a href="https://furamavietnam.com/the-resort/">Home</a></div>
-        <div class="col-2"><a href="https://furamavietnam.com/the-resort/">Employee</a></div>
-        <div class="col-2"><a href="https://furamavietnam.com/the-resort/">Customer</a></div>
+        <div class="col-2"><a href="/employee">Employee</a></div>
+        <div class="col-2"><a href="/customer">Customer</a></div>
         <div class="col-2"><a href="https://furamavietnam.com/the-resort/">Service</a></div>
         <div class="col-2"><a href="https://furamavietnam.com/the-resort/">Contract</a></div>
         <div class="col-2">
@@ -60,7 +63,6 @@
             </form>
         </div>
     </div>
-
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">

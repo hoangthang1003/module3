@@ -22,10 +22,12 @@ call display_list();
 
 
 delimiter // 
-create procedure update_user (in id int , in name1 varchar(50), in email1 varchar(50) , in country1 varchar(50)) begin 
-update users set name = name1,email= email1, country = country1 where id = country1;
+create procedure update_user (in id1 int , in name1 varchar(50), in email1 varchar(50) , in country1 varchar(50)) begin 
+update users set name = name1,email= email1, country = country1 where id = id1;
 end // 
 delimiter // ;
+set SQL_SAFE_UPDATES = 0;
+call update_user(2,'2','3','3');
 DELIMITER //
 Create procedure remove_user(in user_id int)
 begin
